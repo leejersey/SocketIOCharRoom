@@ -1,6 +1,10 @@
 基于SocketIO的即时聊天室
 ================
 
+最近用Express + Angular重写了聊天室：[WebSpeaker](https://github.com/HouCoder/WebSpeaker)。
+
+---
+
 花了一天写出来的小DEMO，后续进行了小的修补，希望能够对你有所帮助 :-)
 
 ### 目录结构/文件说明
